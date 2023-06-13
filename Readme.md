@@ -32,12 +32,12 @@
 
 #### 4. Иллюстрации проекта
 <div align="left">
-  <img src="https://github.com/SlavChek/805401-kekstagram-28/blob/assets/capture_20230613120124743.bmp"  width="300" height="260"">
-  <img src="https://github.com/SlavChek/805401-kekstagram-28/blob/assets/capture_20230613120153363.bmp"  width="300" height="260"">
+  <img src="https://github.com/SlavChek/805401-kekstagram-28/blob/assets/capture_20230613120124743.bmp"  width="300" height="260" alt="Галерея и меню сортировки"">
+  <img src="https://github.com/SlavChek/805401-kekstagram-28/blob/assets/capture_20230613120153363.bmp"  width="300" height="260" alt="Окно с большим изображением и комментарии"">
 </div>
 <div align="left">
-<img src="https://github.com/SlavChek/805401-kekstagram-28/blob/assets/capture_20230613120303136.bmp"  width="300" height="260"">
-<img src="https://github.com/SlavChek/805401-kekstagram-28/blob/assets/capture_20230613120336227.bmp"  width="300" height="260"">
+<img src="https://github.com/SlavChek/805401-kekstagram-28/blob/assets/capture_20230613120303136.bmp"  width="300" height="260" alt="Форма загрузки изображения, слайдер и эффекты"">
+<img src="https://github.com/SlavChek/805401-kekstagram-28/blob/assets/capture_20230613120336227.bmp"  width="300" height="260" alt="Окно успешной загрузки изображения"">
   </div>
 
 
